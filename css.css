@@ -1,0 +1,130 @@
+
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Permanent+Marker');
+
+.bindex h1{
+font-family: 'Indie Flower', cursive;
+	color:red;
+	font-size:75px;
+	width:100%;
+	text-align:center;
+}
+.bindex div{
+	width:100%;
+	text-align:center;	
+	display:flex;
+	justify-content:space-around;
+
+}
+.bindex a{
+	text-decoration:none;
+	color:black;
+	font-family: 'Permanent Marker', cursive;
+	font-size:35px;
+		
+}
+.bindex div a:hover{
+	text-decoration:none;
+	color:#FF0;
+	font-family: 'Permanent Marker', cursive;
+	font-size:35px;
+		
+}
+/*---------------------------entrar.php--------------------*/
+
+.bentrar h1{
+font-family: 'Indie Flower', cursive;
+	color:red;
+	font-size:75px;
+	width:100%;
+	text-align:center;
+}
+.bentrar div{
+font-family: 'Permanent Marker', cursive;
+	color:black;
+	
+	
+	font-size:35px;
+}
+#for{
+	display:flex;	
+	justify-content:space-around;
+	width:100%;
+}
+.bentrar input[type=text]{
+
+	font-size:20px;
+		font-family: 'Permanent Marker', cursive;
+	padding:5px;
+
+	
+}
+.bentrar input[type=password]{
+
+	font-size:20px;
+	font-family: 'Permanent Marker', cursive;
+	padding:5px;
+
+}
+
+#entrar{
+font-family: 'Indie Flower', cursive;
+	font-size:20px;
+	background-color:#FFF;
+	font-weight:bold;
+	color:red;
+
+
+}
+#boton1{
+	width:100%;	
+	text-align:center;
+	margin-top:30px;
+}
+
+/*----------------------*/
+#volver{
+	display:;
+}
+/*---------------------*/
+
+/*--------------registrar----------------*/
+
+.bregistrar h1{
+	font-family: 'Indie Flower', cursive;
+	color:red;
+	font-size:75px;
+	width:100%;
+	text-align:center;
+}
+
+#div1{
+	display:flex;
+		justify-content:space-around;
+		font-size:20px;
+	font-family: 'Permanent Marker', cursive;
+}
+.bregistrar input[type=text]{
+
+	font-size:20px;
+		font-family: 'Permanent Marker', cursive;
+	padding:5px;
+
+	
+}
+.bregistrar input[type=password]{
+
+	font-size:20px;
+	font-family: 'Permanent Marker', cursive;
+	padding:5px;
+
+}
+
+/*------------------Panel--------------------*/
+.bpanel h2{
+    font-family: 'Indie Flower', cursive;
+	color:red;
+	font-size:75px;
+	
+    text-decoration: none;
+    
+}
